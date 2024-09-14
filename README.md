@@ -1,0 +1,6 @@
+- Hello World
+- My name is Nathan Thomas
+- I am in my 3rd year as a CS Major at UNM
+- I am familiar with C,Java,Python,VHDL, and Matlab
+- I would love to collaborate or connect with anyone here and discuss revisions on my projects thank you !
+--->
